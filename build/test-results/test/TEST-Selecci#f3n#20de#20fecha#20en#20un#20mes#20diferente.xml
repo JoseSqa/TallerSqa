@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Selección de fecha en un mes diferente" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-12-06T23:56:29" hostname="CORREA" time="14.272">
+  <properties/>
+  <testcase name="Seleccionar una fecha específica en un mes diferente al actual" classname="Selección de fecha en un mes diferente" time="14.272"/>
+  <system-out><![CDATA[
+Scenario: Seleccionar una fecha específica en un mes diferente al actual ?[90m# src/test/resources/features/tes.feature:7?[0m
+  ?[32mGiven ?[0m?[32mque el usuario abre el Datepicker de jQuery?[0m                      ?[90m# co.sqasa.StepDef.DatePickerSteps.que_el_usuario_abre_el_datepicker_de_jquery()?[0m
+  ?[32mWhen ?[0m?[32mselecciona el dia ?[0m?[32m?[1m"15"?[0m?[32m del mes ?[0m?[32m?[1m"March"?[0m?[32m del anio ?[0m?[32m?[1m"2026"?[0m            ?[90m# co.sqasa.StepDef.DatePickerSteps.selecciona_el_dia_del_mes_del_anio(java.lang.String,java.lang.String,java.lang.String)?[0m
+  ?[32mThen ?[0m?[32mla fecha seleccionada debe mostrarse en el campo de fecha?[0m         ?[90m# co.sqasa.StepDef.DatePickerSteps.la_fecha_seleccionada_debe_mostrarse_en_el_campo_de_fecha()?[0m
+]]></system-out>
+  <system-err><![CDATA[SLF4J(W): No SLF4J providers were found.
+SLF4J(W): Defaulting to no-operation (NOP) logger implementation
+SLF4J(W): See https://www.slf4j.org/codes.html#noProviders for further details.
+dic 06, 2025 6:56:33 P. M. org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find CDP implementation matching 143
+dic 06, 2025 6:56:33 P. M. org.openqa.selenium.chromium.ChromiumDriver lambda$new$5
+WARNING: Unable to find version of CDP to use for 143.0.7499.40. You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.21.0` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
+]]></system-err>
+</testsuite>
