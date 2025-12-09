@@ -54,11 +54,13 @@ Historia de Usuario **HU-001 – Selección de fecha en un campo de formulario**
 
 ## Evidencias
 
-![](img/img2.png)
+
 ![](img/img3.png)
 ![](img/img4.png)
+[](img/img2.png)
 ![](img/img5.png)
 ![](img/img6.png)
+
 
 
 
