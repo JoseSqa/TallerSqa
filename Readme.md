@@ -44,30 +44,6 @@ Historia de Usuario **HU-001 – Selección de fecha en un campo de formulario**
 - **Navegador:** Chrome (WebDriver administrado por Serenity)  
 - **Análisis de código estático:** SonarQube  
 
----
-
-## Estructura del proyecto
-
-```text
-Template_Automatizacion_SQA /
-├── .gradle
-├── gradle
-│   └── wrapper
-├── build
-├── src
-    └── test
-        ├── java
-        │   └── co
-        │       └── sqasa
-        │           ├── runners
-        │           │   └── testRunner.java
-        │           └── StepDef
-        │               └── DatePickerStepDefinitions.java
-        └── resources
-            └── features
-                └── test.feature
----
-
 ## Configuración y ejecución de las prueba
 
 ### Requisitos previos
@@ -83,6 +59,7 @@ Template_Automatizacion_SQA /
 ![](img4.png)
 ![](img5.png)
 ![](img6.png)
+
 
 
 
