@@ -32,7 +32,7 @@ Historia de Usuario **HU-001 – Selección de fecha en un campo de formulario**
 
 2. **Verificación del valor del campo de fecha**  
    - Validar que el campo de fecha muestre exactamente el valor esperado después de la selección ("03/15/2026"`).
-![](Feacture.png)
+![](img/Feacture.png)
 ---
 
 ## Tecnologías utilizadas
@@ -54,11 +54,12 @@ Historia de Usuario **HU-001 – Selección de fecha en un campo de formulario**
 
 ## Evidencias
 
-![](img2.png)
-![](img3.png)
-![](img4.png)
-![](img5.png)
-![](img6.png)
+![](img/img2.png)
+![](img/img3.png)
+![](img/img4.png)
+![](img/img5.png)
+![](img/img6.png)
+
 
 
 
